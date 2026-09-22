@@ -20,8 +20,9 @@ Here is a quick snapshot of the script executing inside the terminal window:
 
 ```text
 =========================================
-(     Welcome to my CodeAlpha Bot!      ) 
+      Welcome to my CodeAlpha Bot!       
 =========================================
+
 Quick tip: Type 'bye' or 'exit' whenever you want to quit.
 
 Bot: Hey! I'm your AI chat assistant for this project. What's on your mind?
