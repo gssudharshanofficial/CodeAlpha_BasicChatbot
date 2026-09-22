@@ -1,6 +1,6 @@
 def start_chat():
     print("=========================================")
-    print("(     Welcome to my CodeAlpha Bot!      )")
+    print("      Welcome to my CodeAlpha Bot!       ")
     print("=========================================")
     print("Quick tip: Type 'bye' or 'exit' whenever you want to quit.\n")
     print("Bot: Hey! I'm your AI chat assistant for this project. What's on your mind?")   
