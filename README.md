@@ -1,4 +1,4 @@
-# CodeAlpha Internship: Simple Terminal Chatbot
+# CodeAlpha Internship: Simple Terminal Chatbot (Task 4)
 
 This is a lightweight, rule-based chatbot script built using Python. I developed this project to fulfill Task 4 of my software engineering internship curriculum at **CodeAlpha**.
 
